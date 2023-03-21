@@ -15,7 +15,7 @@ body {
     font-size: 16px;
     font-weight:bolder;
 }
-/* ########################            textuud                 ################# */
+/* texts */
 h1 {
     margin-top: 50px auto 0 auto;
     font-family:Merriweather, sans-serif;
@@ -53,7 +53,7 @@ hr {
     margin: 100px auto;
 }
 
-/*  ####################     containers      #############################  */
+/* containers */
 .top-container {
     background-image: radial-gradient(#c8c8c8 1px, transparent 1px), radial-gradient(#c8c8c8 1px, transparent 1px);
 background-size: 30px 30px;
@@ -76,7 +76,7 @@ background-color: rgba(71, 212, 255, 0);
     
 }
 
-/*  ####################     zuragnuud      #############################  */
+/*  pics, icons  */
 
 .profile-img {
     width: 15%;
@@ -93,7 +93,7 @@ background-color: rgba(71, 212, 255, 0);
     margin-left: 30px;
 }
 
-/*  ####################     skills      #############################  */
+/* skills  */
 .skill-row {
     width: 50%;
     margin: 100px auto 100px auto;
@@ -129,8 +129,6 @@ background-color: rgba(71, 212, 255, 0);
 	position:relative;
 	top:1px;
 }
-
-        
 
 .icon {
     font-size: 0.75rem;
